@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+html {
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+#titleInput{
+    margin-top: 50px;
+}
+
+.input{
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+    font-family: cursive;
+    margin: 20px;
+}
+
+#submit{
+    width: 150px;
+    height: 40px;
+    font-size: 15 px;
+    font-family: cursive;
+    background-color: gray;
+    color: white;
+    margin-top: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px auto;
+    background-color: burlywood;
+}
+
+table, th, td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+th {
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+}
+
+td {
+    font-size: 25px;
+    font-family: cursive;
+    color: black;
+    font-weight: 400;
+}
